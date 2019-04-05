@@ -1,0 +1,10 @@
+{
+  "name": "killer_the_game",
+  "version": "1.0.0",
+  "description": "Play Killer: the game! The bot gives you a target from the registered players list and a word to kill them.",
+  "main": "KillerBot.js",
+  "author": "Emily Perrimon",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
