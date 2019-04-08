@@ -25,7 +25,7 @@ module.exports = {
       var perm = new Discord.RichEmbed()
         .setColor(0xCC0006)
         .setDescription(`You don't have the permission to reset the game. (required: kick members)`)
-        .setFooter(`Game developped by Emily. Support -> https://discord.gg/g8GxPUE`);
+        .setFooter(`Game developed by Emily. Support -> https://discord.gg/g8GxPUE`);
       message.channel.send(perm);
       message.delete(250);
     }
